@@ -1,14 +1,12 @@
 # MJ Anderson
 
 ## Bio
-- Cybersecurity professional focusing on:
-  - Data Engineering
-  - Detection Engineering
-  - MacOS Research
+- A cybersecurity professional who enjoys coding, data, and threat detection.
    
 ## Socials
+- Reach out to me on -> [X](https://www.x.com/orchardescape/) 
 - [LinkedIn](https://www.linkedin.com/in/orchardescape/)
-- [X](https://www.x.com/orchardescape/) 
+
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
