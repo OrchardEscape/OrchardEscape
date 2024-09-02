@@ -1,8 +1,14 @@
 # MJ Anderson
 
-## Bio, Contact Info, and More
-- Lead Security Engineer
-- - Spe
+## Bio
+- Cybersecurity professional focusing on:
+  - Data Engineering
+  - Detection Engineering
+  - MacOS Research
+   
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/orchardescape/)
+- [X](https://www.x.com/orchardescape/) 
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
