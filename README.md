@@ -1,12 +1,9 @@
-# MJ Anderson
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=orchardescape.orchardescape&"  />
+</div>
 
-## Bio
-- A cybersecurity professional who enjoys coding, data, and threat detection.
-   
-## Socials
-- Reach out to me on -> [X](https://www.x.com/orchardescape/) 
-- [LinkedIn](https://www.linkedin.com/in/orchardescape/)
-
+### About Me
+A cybersecurity professional who enjoys coding, data, and threat detection.
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -24,19 +21,9 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats:</h3>
-
-###
-
+<h3 align="left">🔥 My Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 
