@@ -1,5 +1,9 @@
 # MJ Anderson
 
+## Bio, Contact Info, and More
+- Lead Security Engineer
+- - Spe
+
 ###
 <h3 align="left">🛠 Language and tools</h3>
 
