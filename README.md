@@ -1,3 +1,5 @@
+# MJ Anderson
+
 <h3 align="center">🔥   My Stats</h3>
 
 ###
@@ -7,11 +9,11 @@
 </div>
 
 ###
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -27,22 +29,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm MJ<br><br>- 🔭 I’m working as a Lead Security Engineer<br>- 📚 I'm currently learning ...<br>- </p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
