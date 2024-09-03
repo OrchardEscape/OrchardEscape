@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm MJ<br><br>- 🔭 I’m working as a Lead Security Engineer building enterprise security and detection/response programs<br>- 📚 I'm currently learning MacOS research and improving data engineering skills <br>- ⚡ In my free time I enjoy hang out with my two pups, coding, and touching grass</p>
+<p align="left">I'm MJ<br><br>- 🔭 I’m spearheading the design and deployment of enterprise security and detection/response initiatives as a Lead Security Engineer.<br>- 📚 I'm currently learning MacOS research and applying an ETL pipeline to my detection and response data <br>- ⚡ In my free time I enjoy hang out with my two pups, coding, and touching grass</p>
 
 ###
 <h3 align="left">⭐️ My Stats</h3>
