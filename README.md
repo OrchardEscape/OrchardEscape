@@ -2,11 +2,32 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orchardescape.orchardescape&"  />
 </div>
 
-<h3 align="left">🙋‍♂️ About Me</h3>
+## About Me
 
-###
+👋 Hi there! I'm MJ, a seasoned cybersecurity professional specializing in building robust enterprise security programs and cutting-edge detection and response capabilities.
 
-<p align="left">I'm MJ<br><br>- 🔭 I design and deploy enterprise security and detection/response programs as a Lead Security Engineer.<br>- 📚 I'm currently enjoyinh MacOS research and learning more about ETL pipelines within detection and response <br>- ⚡ In my free time I enjoy hang out with my two pups, coding, and touching grass</p>
+🛡️ With over a decade of experience in the field, I've helped organizations of all sizes strengthen their security posture and defend against evolving threats.
+
+🏗️ **Enterprise Security Architecture:**
+- Designed and implemented comprehensive security frameworks
+- Developed security policies and procedures aligned with industry standards (NIST CSF 2.0, ISO 27001, MITRE ATT&CK)
+- Led security awareness programs and fostered a culture of cybersecurity
+
+🕵️ **Detection & Response:**
+- Built and optimized SOC operations from the ground up
+- Implemented SIEM, EDR, and SOAR solutions for enhanced threat detection
+- Developed custom detection rules and automated response playbooks
+
+🤖 **Automation & Tools:**
+- Proficient in Python, AWS serverless service, and SQL
+- Experience with Splunk, ELK stack, and various commercial security tools
+- Contributor to open-source security projects
+
+🌱 I'm passionate about Apple Security, Data Engineering, and staying ahead of the curve in cybersecurity.
+
+📫 Let's connect! Feel free to reach out for collaborations or just to chat about all things cybersecurity.
+
+</p>
 
 ###
 <h3 align="left">⭐️ My Stats</h3>
