@@ -3,13 +3,12 @@
 </div>
 
 ###
-<h3 align="left">⭐️ My Stats</h3>
+<h3 align="left">⭐️ About Me</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-## About Me
-
+<br></br>
 👋 Hi there! I'm MJ, a seasoned cybersecurity professional specializing in building robust enterprise security programs and cutting-edge detection and response capabilities.
 
 🛡️ With over a decade of experience in the field, I've helped organizations of all sizes strengthen their security posture and defend against evolving threats.
