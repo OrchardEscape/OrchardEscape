@@ -2,6 +2,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orchardescape.orchardescape&"  />
 </div>
 
+###
+<h3 align="left">⭐️ My Stats</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
 ## About Me
 
 👋 Hi there! I'm MJ, a seasoned cybersecurity professional specializing in building robust enterprise security programs and cutting-edge detection and response capabilities.
@@ -28,16 +34,3 @@
 📫 Let's connect! Feel free to reach out for collaborations or just to chat about all things cybersecurity.
 
 </p>
-
-###
-<h3 align="left">⭐️ My Stats</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-
-
-
-
-
-
