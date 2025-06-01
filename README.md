@@ -20,15 +20,15 @@
 
 🕵️ **Detection & Response:**
 - Built and optimized SOC operations from the ground up
-- Implemented SIEM, EDR, and SOAR solutions for enhanced threat detection
+- Implemented AI Agennts, SIEM, EDR, and SOAR solutions for enhanced threat detection
 - Developed custom detection rules and automated response playbooks
 
 🤖 **Automation & Tools:**
 - Proficient in Python, AWS serverless service, and SQL
-- Experience with Splunk, ELK stack, and various commercial security tools
+- Experience with Datadog and Splunk
 - Contributor to open-source security projects
 
-🌱 I'm passionate about Apple Security, Data Engineering, and staying ahead of the curve in cybersecurity.
+🌱 I'm passionate about AI Security, Data Engineering, Threat Detection, and staying ahead of the curve in cybersecurity.
 
 📫 Let's connect! Feel free to reach out for collaborations or just to chat about all things cybersecurity.
 
