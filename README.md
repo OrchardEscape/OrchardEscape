@@ -1,35 +1,76 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=orchardescape.orchardescape&"  />
-</div>
+<!-- Profile README for MJ – Cybersecurity Architect -->
 
-###
-<h3 align="left">⭐️ About Me</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=orchardescape&theme=github-dark")&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+<h1 align="center">MJ ⚔️ | Cybersecurity Architect & Threat‑Detection Nerd</h1>
 
-<br></br>
-👋 Hi there! I'm MJ, a seasoned cybersecurity professional specializing in building robust enterprise security programs and cutting-edge detection and response capabilities.
-
-🛡️ With over a decade of experience in the field, I've helped organizations of all sizes strengthen their security posture and defend against evolving threats.
-
-🏗️ **Enterprise Security Architecture:**
-- Designed and implemented comprehensive security frameworks
-- Developed security policies and procedures aligned with industry standards (NIST CSF 2.0, ISO 27001, MITRE ATT&CK)
-- Led security awareness programs and fostered a culture of cybersecurity
-
-🕵️ **Detection & Response:**
-- Built and optimized SOC operations from the ground up
-- Implemented AI Agennts, SIEM, EDR, and SOAR solutions for enhanced threat detection
-- Developed custom detection rules and automated response playbooks
-
-🤖 **Automation & Tools:**
-- Proficient in Python, AWS serverless service, and SQL
-- Experience with Datadog and Splunk
-- Contributor to open-source security projects
-
-🌱 I'm passionate about AI Security, Data Engineering, Threat Detection, and staying ahead of the curve in cybersecurity.
-
-📫 Let's connect! Feel free to reach out for collaborations or just to chat about all things cybersecurity.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Golang-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-Python-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-NIST%20CSF%202.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Serverless-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chat-Open%20to%20Collaborate-brightgreen?style=flat-square" />
 </p>
+
+---
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
+  <!-- If you don’t want stats, just delete this block -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OrchardEscape&show_icons=true&hide_border=true&count_private=true" alt="MJ's GitHub stats" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchardEscape&layout=compact&hide_border=true" alt="Top languages" />
+  </p>
+</details>
+
+---
+
+## 👋 About Me
+I'm **MJ**, a seasoned cybersecurity professional with **15+ years** of hands‑on experience designing and operating enterprise‑grade security programs. My passion is **building resilient, detection‑first infrastructures** that keep pace with ever‑changing threats.
+
+---
+
+## 🏗️ Enterprise Security Architecture
+- **Designed** end‑to‑end security frameworks for startups → Fortune 100s  
+- **Authored & governed** policies/procedures aligned to **NIST CSF 2.0, ISO 27001 & MITRE ATT&CK**  
+- **Evangelized** security culture through engaging awareness programs & technical workshops  
+
+---
+
+## 🕵️ Detection & Response
+- **Built** 24×7 SOCs from the ground up (people, process, tech)  
+- **Integrated** EDR, SIEM, SOAR & **AI agents** for high‑fidelity threat detection  
+- **Engineered** custom detection rules + automated playbooks that cut mean‑time‑to‑respond by _>60%_  
+
+---
+
+## 🤖 Automation & Tooling
+| Language / Tech | Focus | Highlights |
+| :--- | :--- | :--- |
+| **Golang/Python** | Orchestration & custom detections | Red Canary, Jira, Slack, MFA workflows |
+| **AWS Serverless** | Scalable response services | Lambda, API Gateway, DynamoDB, EventBridge |
+| **SQL** | Data enrichment & analytics | Security data lakes, dynamic baselining |
+| **Datadog / Splunk** | Telemetry & SIEM | Pipeline tuning, threat‑hunting dashboards |
+
+I also **contribute to open‑source security tools** and love mentoring newcomers in the field.
+
+---
+
+## 🌱 Currently Exploring
+- AI+Security research & adversarial ML defenses  
+- Modern data engineering patterns for security analytics  
+- Advanced ATT&CK detection gaps & purple‑team simulations  
+
+---
+
+## 🗣️ Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/containerescape/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/ContainerEscape)
+[![Email](https://img.shields.io/badge/Email-DM Me-%23D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+
+---
+
+> _“Security is not a product, but a process.” — Bruce Schneier_  
+> _Building that process is what I do best._
+
+<!-- End of README -->
