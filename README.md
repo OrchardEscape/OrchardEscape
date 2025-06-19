@@ -26,20 +26,20 @@
 ---
 
 ## 👋 About Me
-I'm **MJ**, a seasoned cybersecurity professional with **15+ years** of hands‑on experience designing and operating enterprise‑grade security programs. My passion is **building resilient, detection‑first infrastructures** that keep pace with ever‑changing threats.
+I'm **MJ**, a seasoned cybersecurity professional with 15+ years of hands‑on experience designing and operating enterprise‑grade security programs. My passion is building resilient, detection‑first infrastructures that keep pace with ever‑changing threats.
 
 ---
 
 ## 🏗️ Enterprise Security Architecture
-- **Designed** end‑to‑end security frameworks for startups → Fortune 100s  
-- **Authored & governed** policies/procedures aligned to **NIST CSF 2.0, ISO 27001 & MITRE ATT&CK**  
-- **Evangelized** security culture through engaging awareness programs & technical workshops  
+- Designed end‑to‑end security frameworks for startups → Fortune 100s  
+- Authored & governed policies/procedures aligned to NIST CSF 2.0, ISO 27001 & MITRE ATT&CK  
+- Evangelized security culture through engaging awareness programs & technical workshops  
 
 ---
 
 ## 🕵️ Detection & Response
 - **Built** 24×7 SOCs from the ground up (people, process, tech)  
-- **Integrated** EDR, SIEM, SOAR & **AI agents** for high‑fidelity threat detection  
+- **Integrated** EDR, SIEM, SOAR & AI agents for high‑fidelity threat detection  
 - **Engineered** custom detection rules + automated playbooks that cut mean‑time‑to‑respond by _>60%_  
 
 ---
