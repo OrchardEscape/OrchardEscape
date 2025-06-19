@@ -1,6 +1,6 @@
 <!-- Profile README for MJ – Cybersecurity Architect -->
 
-<h1 align="center">MJ ⚔️ | Cybersecurity Architect & Threat‑Detection Nerd</h1>
+<h1 align="center">MJ ⚔️ | Cybersecurity Architect & Threat‑Detection SME </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Golang-blue?style=flat-square" />
