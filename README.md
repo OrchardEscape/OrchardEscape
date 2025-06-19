@@ -1,21 +1,21 @@
-<!-- Profile README for MJ – Cybersecurity Architect -->
+<!-- Profile README for MJ – Cybersecurity Engineer -->
 
-<h1 align="center">MJ ⚔️ | Cybersecurity Architect & Threat‑Detection SME </h1>
+<h1 align="center">MJ ⚔️ | Cybersecurity Engineer • Data Engineering • Threat Detection • Automation</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Golang-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Code-Python-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-NIST%20CSF%202.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-NIST%20CSF%202.0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20Serverless-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chat-Open%20to%20Collaborate-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Projects-brightgreen?style=flat-square" />
 </p>
 
 ---
-<details>
-  <summary>⚡ GitHub Stats</summary>
 
-  <!-- If you don’t want stats, just delete this block -->
+<details>
+  <summary>📊 GitHub Stats</summary>
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=OrchardEscape&show_icons=true&hide_border=true&count_private=true" alt="MJ's GitHub stats" />
     <br />
@@ -26,51 +26,56 @@
 ---
 
 ## 👋 About Me
-I'm **MJ**, a seasoned cybersecurity professional with 15+ years of hands‑on experience designing and operating enterprise‑grade security programs. My passion is building resilient, detection‑first infrastructures that keep pace with ever‑changing threats.
+
+I’m MJ, a cybersecurity engineer with 15+ years of experience building detection-driven systems that integrate tightly with modern data engineering and automation stacks. My focus is on scaling threat detection with real-time data pipelines, automation-first design, and advanced analytics.
 
 ---
 
-## 🏗️ Enterprise Security Architecture
-- Designed end‑to‑end security frameworks for startups → Fortune 100s  
-- Authored & governed policies/procedures aligned to NIST CSF 2.0, ISO 27001 & MITRE ATT&CK  
-- Evangelized security culture through engaging awareness programs & technical workshops  
+## 🔢 Data Engineering for Security
+
+- Built pipelines for ingesting, transforming, and correlating security telemetry at scale  
+- Designed schema and enrichment strategies to power threat detection and investigations  
+- Applied SQL, Python, and serverless patterns to create flexible, low-latency data flows  
+- Integrated modern tooling (e.g., dbt, Apache Iceberg, and EventBridge) for dynamic, versioned security data lakes  
 
 ---
 
-## 🕵️ Detection & Response
-- **Built** 24×7 SOCs from the ground up (people, process, tech)  
-- **Integrated** EDR, SIEM, SOAR & AI agents for high‑fidelity threat detection  
-- **Engineered** custom detection rules + automated playbooks that cut mean‑time‑to‑respond by _>60%_  
+## 🔍 Threat Detection & Response
+
+- Built SOC and IR programs from scratch — tech, team, and workflows  
+- Deployed EDR, SIEM, SOAR, and AI-driven agents to unify detection across platforms  
+- Developed threat content and response playbooks — reduced MTTR by over 60%  
 
 ---
 
-## 🤖 Automation & Tooling
-| Language / Tech | Focus | Highlights |
+## 🛠️ Automation & Security Tooling
+
+| Stack | Area | Key Contributions |
 | :--- | :--- | :--- |
-| **Golang/Python** | Orchestration & custom detections | Red Canary, Jira, Slack, MFA workflows |
-| **AWS Serverless** | Scalable response services | Lambda, API Gateway, DynamoDB, EventBridge |
-| **SQL** | Data enrichment & analytics | Security data lakes, dynamic baselining |
-| **Datadog / Splunk** | Telemetry & SIEM | Pipeline tuning, threat‑hunting dashboards |
+| Golang / Python | Custom orchestration | Red Canary, Jira, Slack, MFA flows |
+| AWS Serverless | Automation backend | Lambda, EventBridge, DynamoDB |
+| SQL | Data pipelines | Baselining, time-series correlation, rule tuning |
+| Datadog / Splunk | SIEM / Telemetry | Threat hunting dashboards, detection logic |
 
-I also **contribute to open‑source security tools** and love mentoring newcomers in the field.
-
----
-
-## 🌱 Currently Exploring
-- AI+Security research & adversarial ML defenses  
-- Modern data engineering patterns for security analytics  
-- Advanced ATT&CK detection gaps & purple‑team simulations  
+I contribute to open-source projects and mentor up-and-coming security and data engineers.
 
 ---
 
-## 🗣️ Let’s Connect
+## 🚧 Actively Exploring
+
+- AI x Security — adversarial ML, LLM-powered SOC tooling  
+- Streaming data pipelines for sub-minute detection windows  
+- Detection engineering at scale — analytics for evolving attacker behavior  
+
+---
+
+## 🧭 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/containerescape/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/ContainerEscape)
-[![Email](https://img.shields.io/badge/Email-DM Me-%23D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
 
 ---
 
 > _“Security is not a product, but a process.” — Bruce Schneier_  
-> _Building that process is what I do best._
-
-<!-- End of README -->
+> _I turn data into that process._
